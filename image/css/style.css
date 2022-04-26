@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top-container{
+    background-color:#E4F9F5 ;
+    position: relative;
+    padding-top: 100px;   
+}
+.profile p {
+    width: 30%;
+    margin: 0 auto;
+    font-size: 18px;
+}
+.profile img{
+    border-radius: 50%;
+    filter: drop-shadow(2px 4px 5px black);
+}
+.bottom-container {
+    background-color: #66BFBF;
+    color: #E4F9F5;
+    margin-top: 150px;
+    padding: 40px 0 40px 0;
+}
+.contact-me p {
+    margin-bottom: 100px;
+}
+.contact-me a {
+    background-color: #11999E;
+    color: white;
+    border-radius: 10px;
+    padding: 15px 25px;
+    text-decoration: none;
+}
+.contact-me a:hover{
+    background-color: white;
+    color: #11999E;
+    border: 2px solid #11999E;
+}
+
+.footer-link {
+    color: #E4F9F5;
+    text-decoration: none;
+    margin-right: 50px;
+}
+.footer-link:hover{
+    color: #11999E
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row img {
+    width: 25%;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.programmer{
+    float: left;
+    margin-right: 30px;
+    
+}
+
+.chilie{
+    float: right;
+    margin-left: 30px;
+}
