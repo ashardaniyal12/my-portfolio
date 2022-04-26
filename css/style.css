@@ -20,7 +20,12 @@ h3 {
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
 }
-
+hr {
+    width: 5%;
+    border: none;
+    border-top: dotted 10px #EAF6F6;
+    margin: 80px auto;
+}
 .top-container{
     background-color:#E4F9F5 ;
     position: relative;
